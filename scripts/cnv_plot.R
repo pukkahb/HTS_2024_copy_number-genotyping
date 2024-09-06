@@ -1,7 +1,6 @@
 #!/usr/bin/env Rscript
 
-# Install & Load necessary libraries
-install.packages(c("cn.mops", "ggplot2"))
+# Load necessary libraries
 library(cn.mops)
 library(ggplot2)
 
