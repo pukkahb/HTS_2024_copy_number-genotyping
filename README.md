@@ -1,4 +1,3 @@
-```markdown
 # HTS_2024_Copy_Number_Variation
 
 ## Introduction
